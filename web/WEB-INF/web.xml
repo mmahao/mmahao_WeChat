@@ -13,7 +13,7 @@
         <servlet-class>com.mh.servlet.MainServlet</servlet-class>
         <init-param>
             <param-name>log4j</param-name>
-            <param-value>config/log4j.properties</param-value><!--log4j配置文件路径-->
+            <param-value>/WEB-INF/classes/config/log4j.properties</param-value><!--log4j配置文件路径-->
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>

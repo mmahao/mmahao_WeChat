@@ -7,11 +7,12 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title> 欢迎访问我的网站 </title>
-  </head>
-  <body>
-  欢迎访问我的网站
-  Hello, World!
-  </body>
+</head>
+<body>
+欢迎访问我的网站
+<br>
+Hello, World!
+</body>
 </html>
